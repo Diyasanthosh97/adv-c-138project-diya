@@ -1,0 +1,23 @@
+.heading{
+    width:100%;
+    font-size:35px;
+    font-style: italic;
+    font-weight: bold;
+}
+.heading h3{
+    display:inline;
+
+}
+.heading button{
+float:right;
+border-radius: 35px;
+font-size: 25px;
+}
+.big_image{
+    width:100%;
+}
+#start,#status{
+    font-size: 20px;
+    font-style: italic;
+    
+}
